@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chat GPT</string>
+    <string name="title_chatGpt_tutorial">Chat-GPT Tutorial</string>
+    <string name="chatgpt_short_desc">ChatGPT is an AI language model developed by OpenAI. It can generate text and answer questions based on input. Trained on a diverse range of web pages, it has vast knowledge and can understand natural language. It can be used for chatbots, content creation, and more.</string>
+    <string name="chatgpt_long_desc">ChatGPT is an advanced language model developed by OpenAI. It uses state-of-the-art deep learning techniques and has been trained on a massive amount of text data from the web. It can generate text, answer questions, summarize, translate and perform other NLP tasks. ChatGPT has proven to be a powerful tool for chatbots, content creation, language translation and more. OpenAI\'s GPT models are at the forefront of NLP research and are constantly being updated with new capabilities.</string>
+</resources>
